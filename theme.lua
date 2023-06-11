@@ -1,5 +1,5 @@
 --[[
-
+ 
      Powerarrow Dark Awesome WM theme
      github.com/lcpz
 
