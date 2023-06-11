@@ -1,7 +1,6 @@
 --[[
 
-     Awesome WM configuration template
-     https://github.com/awesomeWM
+     Awesome WM configuration
 
      Freedesktop : https://github.com/lcpz/awesome-freedesktop
 
